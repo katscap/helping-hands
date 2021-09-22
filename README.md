@@ -104,10 +104,5 @@ Install Helping hands with npm
 - [@SeijiMatsumoto](https://www.github.com/SeijiMatsumoto)
 - [@SandraM1](https://github.com/SandraM1)
 - [@juneisenuj](https://www.github.com/juneisenuj)
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
   
